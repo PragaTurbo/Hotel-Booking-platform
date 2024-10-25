@@ -1,0 +1,11 @@
+.pay
+{
+    background: url('pa.jpg');
+    display: flex;
+    background-size:cover    ;
+    
+    margin-left: 380px;
+    width: 700px;
+    height: 100vh;
+    
+}

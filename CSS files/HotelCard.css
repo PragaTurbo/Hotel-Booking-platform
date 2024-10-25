@@ -1,0 +1,16 @@
+.titee
+{
+    justify-content: center;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* flex-direction : top; */
+    background: url('bh.png');
+    background-size: cover;
+  }
+  .con
+  {
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    margin-top: 60px;
+}
